@@ -1,2 +1,2 @@
 # more-info
-jacob2512 details
+jacob2512 readme
